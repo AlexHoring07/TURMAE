@@ -3,5 +3,5 @@ header {
 }
 
 nav li {
-    display: inline;
+    display: inline-block
 }
