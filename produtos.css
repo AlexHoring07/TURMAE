@@ -2,6 +2,7 @@ header {
     background: #BBBBBB;
 }
 
-"HORING'S PIZARIA.jpg"
-     reduce: 80px;
+"HORING'S PIZARIA.jpg" {
+    width: 350;
+    height: 350;
 }
