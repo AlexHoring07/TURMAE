@@ -2,7 +2,6 @@ header {
     background: #BBBBBB;
 }
 
-"HORING'S PIZARIA.jpg" {
-    width: 50%;
-    height: 80%;
+nav li {
+    display: inline;
 }
