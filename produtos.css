@@ -52,5 +52,6 @@ nav a {
 }
 
 .produto-descricao {
-    font-size: 18px
+    font-size: 18px;
+    display: inline-block;
 }
