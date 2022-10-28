@@ -43,15 +43,18 @@ nav a {
 }
 
 .produtos h2 {
+    display: inline-block;
     font-size: 30px;
     font-weight: bold;
 }
 
 .produto-preco {
+    display: inline-block;
     font-size 22px;
     font-weight: bold;
 }
 
 .produto-descricao {
+    display: inline-block;
     font-size: 18px;
 }
