@@ -29,7 +29,6 @@ nav a {
 }
 
 .produtos {
-    display: inline-block;
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
@@ -43,18 +42,15 @@ nav a {
 }
 
 .produtos h2 {
-    display: inline-block;
     font-size: 30px;
     font-weight: bold;
 }
 
 .produto-preco {
-    display: inline-block;
     font-size 22px;
     font-weight: bold;
 }
 
 .produto-descricao {
-    display: inline-block;
     font-size: 18px;
 }
