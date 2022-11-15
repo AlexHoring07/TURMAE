@@ -28,7 +28,7 @@ nav a {
     text-ecoration: none;
 }
 
-nav a:houver {
+nav a:hover {
     color: #C78C19;
     text-decoration: underline;
 }
@@ -51,7 +51,7 @@ nav a:houver {
     border-radius: 10px;
 }
 
-.Produtos li:houver {
+.Produtos li:hover {
     border-color: #C78C19;
 }
 
@@ -59,7 +59,7 @@ nav a:houver {
     border-color: #088C19;
 }
 
-.Produtos li:houver h2 {
+.Produtos li:hover h2 {
     font-size: 34px;
 }
 
