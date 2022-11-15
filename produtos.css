@@ -28,6 +28,8 @@ nav a {
     text-ecoration: none;
 }
 
+nav a:hover {
+
 .Produtos {
     width: 940px;
     margin: 0 auto;
