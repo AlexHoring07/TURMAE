@@ -28,6 +28,11 @@ nav a {
     text-ecoration: none;
 }
 
+nav a:houver {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
 .Produtos {
     width: 940px;
     margin: 0 auto;
@@ -44,4 +49,31 @@ nav a {
     box-sizing: border-box;
     border: 7px solid #000000;
     border-radius: 10px;
+}
+
+.Produtos li:houver {
+    border-color: #C78C19;
+}
+
+.Produtos li:active {
+    border-color: #088C19;
+}
+
+.Produtos li:houver h2 {
+    font-size: 34px;
+}
+
+.Produtos h2 {
+    font-size: 30px;
+    font-weigh: bold;
+}
+
+.Produtos descricao {
+    font-size: 18px;
+}
+
+.Produto.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
 }
