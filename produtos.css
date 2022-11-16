@@ -5,7 +5,7 @@ header {
 
 .caixa {
     position: relative;
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
 }
 
@@ -83,3 +83,11 @@ footer {
     background: url("bg (1).jpg");
     padding: 40px 0;
 }
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+
